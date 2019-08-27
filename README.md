@@ -1,4 +1,16 @@
-# KUBICO
-![Screenshot_20190827-093514](https://user-images.githubusercontent.com/47059370/63761513-35491e00-c8b9-11e9-88fa-436c2621b584.jpg)
-![Screenshot_20190827-093520](https://user-images.githubusercontent.com/47059370/63761515-35491e00-c8b9-11e9-9cf4-6e7ab9aeb803.jpg)
-![Screenshot_20190827-093525](https://user-images.githubusercontent.com/47059370/63761516-35e1b480-c8b9-11e9-8a78-ce8b1e84579e.jpg)
+# kubico
+
+A new Flutter project.
+
+## Getting Started
+
+This project is a starting point for a Flutter application.
+
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+
+For help getting started with Flutter, view our
+[online documentation](https://flutter.dev/docs), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
